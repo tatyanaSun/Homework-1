@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+    width: 808px;
+    height: 447px;
+}
+
+div.text{
+    margin: 0;
+    padding: 0;
+    width: 447px;
+    border-bottom: 2px solid grey;
+    text-align: center;
+}
